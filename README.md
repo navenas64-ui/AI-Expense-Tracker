@@ -1,2 +1,9 @@
-# AI-Expense-Tracker
-AI Expense Tracker using python , Streamlit and SQlite
+# AI Expense Tracker
+
+A simple AI Expense Tracker built using Python, Streamlit and SQLite.
+
+## Features
+- Add Income & Expense
+- View Expenses
+- Dashboard
+- AI Analysis
